@@ -107,6 +107,8 @@ __Пример__ **Пример**
 ```
 Пример:
 ![Альтернативный текст](https://azbyka.ru/wp-content/uploads/2016/07/priroda.jpg)
+Абсолютно другой текст и рисунок
+![Природа](https://img.freepik.com/free-photo/landscape-of-morning-fog-and-mountains-with-hot-air-balloons-at-sunrise_335224-794.jpg?w=2000)
 
 ## Как добавлять картинки
 
